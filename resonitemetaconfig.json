@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "Config.json",
+        "ConfigType": "kvp",
+        "ConfigFormat": "{0}={1}"
+    }
+]
